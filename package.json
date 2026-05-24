@@ -1,0 +1,10 @@
+{
+  "name": "voice2voice",
+  "version": "1.0.0",
+  "description": "Turn-based voice/text assistant with LLM and local TTS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}

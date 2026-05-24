@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//e/OpenAPI/**)",
+      "Bash(Get-ChildItem -Recurse -Force)",
+      "Bash(Select-Object FullName)",
+      "Bash(find \"E:\\\\supervoice\" -type f -name \"*.py\" 2>/dev/null | head -30)",
+      "Read(//e/supervoice/**)",
+      "Bash(npm --version)",
+      "Bash(pip show *)"
+    ]
+  }
+}
