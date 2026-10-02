@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="PRISMA文献检索流程" id="IgN4VszvsGn_DIccK_wz">
+    <mxGraphModel dx="2475" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D_FSN1dDmYzxNk46uRf--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4472C4;strokeColor=#4472C4;fontColor=#FFFFFF;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;" value="文献检索与筛选流程" vertex="1">
+          <mxGeometry height="55" width="740" x="-390" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1FA;strokeColor=#4472C4;strokeWidth=1.5;fontColor=#222222;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" value="检&#xa;索" vertex="1">
+          <mxGeometry height="365" width="65" x="-390" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1FA;strokeColor=#4472C4;strokeWidth=1.5;fontColor=#222222;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" value="初&#xa;筛" vertex="1">
+          <mxGeometry height="115" width="65" x="-390" y="516" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1FA;strokeColor=#4472C4;strokeWidth=1.5;fontColor=#222222;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" value="全&#xa;文&#xa;筛&#xa;选" vertex="1">
+          <mxGeometry height="245" width="65" x="-390" y="646" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1FA;strokeColor=#4472C4;strokeWidth=1.5;fontColor=#222222;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" value="最&#xa;终&#xa;纳&#xa;入" vertex="1">
+          <mxGeometry height="145" width="65" x="-390" y="906" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4472C4;strokeWidth=1.5;fontColor=#222222;fontSize=13;align=left;verticalAlign=middle;spacingLeft=25;spacingRight=20;spacingTop=15;" value="&lt;b&gt;通过数据库检索获得文献&lt;/b&gt;（n = 2541）&lt;br&gt;&lt;br&gt;PubMed　　　　　　　　　（n = 550）&lt;br&gt;Web of Science　　　　　 （n = 648）&lt;br&gt;EMBASE　　　　　&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;（n = 913）&lt;br&gt;CINAHL EBSCO　　　　&amp;nbsp; &amp;nbsp;（n = 244）&lt;br&gt;Up To Date 临床顾问　　&amp;nbsp; &amp;nbsp; （n = 26 ）&lt;br&gt;中国生物医学文献数据库&amp;nbsp; &amp;nbsp; &amp;nbsp;（n = 44）&lt;br&gt;万方数据知识服务平台　　 （n = 75）&lt;br&gt;知网　　　　　　　　　　 （n = 32）&lt;br&gt;Cochrane Library　　　　&amp;nbsp; （n = 0）&lt;br&gt;国际指南协作网（GIN）　&amp;nbsp; &amp;nbsp;（n = 0）&lt;br&gt;其他学术网站或专业指南　 （n = 0）" vertex="1">
+          <mxGeometry height="321" width="470" x="-290" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#7F8C8D;strokeWidth=1.5;dashed=1;fontColor=#222222;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;剔除重复文献&lt;/b&gt;&lt;br&gt;（n = 1718）" vertex="1">
+          <mxGeometry height="100" width="300" x="261" y="246.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4472C4;strokeWidth=1.5;fontColor=#222222;fontSize=14;align=center;verticalAlign=middle;" value="阅读标题与摘要后初步筛选&lt;br&gt;（n = 617）" vertex="1">
+          <mxGeometry height="115" width="470" x="-290" y="516" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#7F8C8D;strokeWidth=1.5;dashed=1;fontColor=#222222;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;剔除主题不符文献&lt;/b&gt;&lt;br&gt;（n = 573）" vertex="1">
+          <mxGeometry height="95" width="300" x="264" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4472C4;strokeWidth=1.5;fontColor=#222222;fontSize=14;align=center;verticalAlign=middle;" value="阅读全文后进一步筛选&lt;br&gt;（n = 44）" vertex="1">
+          <mxGeometry height="125" width="470" x="-290" y="661" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#7F8C8D;strokeWidth=1.5;dashed=1;fontColor=#222222;fontSize=12;align=left;verticalAlign=middle;spacingLeft=18;spacingTop=12;" value="&lt;b&gt;剔除不符合纳入标准的文献&lt;/b&gt;（n = 21）&lt;br&gt;&lt;br&gt;• 与主题无关（n = 4）&lt;br&gt;• 被试年龄不符合（n = 4）&lt;br&gt;• 无法获取全文（n = 2）&lt;br&gt;• 没有详细报告效应量（n = 3）&lt;br&gt;• 二次补充与变量相关文献（n = 3）&lt;br&gt;• 质量差、数据不完整（n = 2）&lt;br&gt;• 其他原因（n = 3）" vertex="1">
+          <mxGeometry height="161" width="304" x="264" y="643" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4472C4;strokeWidth=1.5;fontColor=#222222;fontSize=15;align=center;verticalAlign=middle;" value="最终纳入文献&lt;br&gt;（n = 23）" vertex="1">
+          <mxGeometry height="105" width="470" x="-290" y="906" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#7F8C8D;strokeWidth=1.5;dashed=1;fontColor=#222222;fontSize=14;align=center;verticalAlign=middle;" value="&lt;b&gt;纳入定性综合分析&lt;/b&gt;&lt;br&gt;（n = 23）" vertex="1">
+          <mxGeometry height="105" width="300" x="264" y="906" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--15" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4472C4;strokeWidth=1.5;endArrow=block;endFill=1;" target="D_FSN1dDmYzxNk46uRf--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--16" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4472C4;strokeWidth=1.5;endArrow=block;endFill=1;" target="D_FSN1dDmYzxNk46uRf--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--17" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4472C4;strokeWidth=1.5;endArrow=block;endFill=1;" target="D_FSN1dDmYzxNk46uRf--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--18" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4472C4;strokeWidth=1.5;dashed=1;endArrow=block;endFill=1;" target="D_FSN1dDmYzxNk46uRf--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--19" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4472C4;strokeWidth=1.5;dashed=1;endArrow=block;endFill=1;" target="D_FSN1dDmYzxNk46uRf--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--20" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4472C4;strokeWidth=1.5;dashed=1;endArrow=block;endFill=1;" target="D_FSN1dDmYzxNk46uRf--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--21" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4472C4;strokeWidth=1.5;dashed=1;endArrow=block;endFill=1;" target="D_FSN1dDmYzxNk46uRf--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--22" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#7F8C8D;strokeWidth=1;dashed=1;endArrow=none;" target="D_FSN1dDmYzxNk46uRf--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--23" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#7F8C8D;strokeWidth=1;dashed=1;endArrow=none;" target="D_FSN1dDmYzxNk46uRf--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_FSN1dDmYzxNk46uRf--24" edge="1" parent="1" source="D_FSN1dDmYzxNk46uRf--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#7F8C8D;strokeWidth=1;dashed=1;endArrow=none;" target="D_FSN1dDmYzxNk46uRf--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
